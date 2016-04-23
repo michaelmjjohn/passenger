@@ -1,0 +1,58 @@
+! Blurb file created by Inform build 6M62
+
+status "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/CblorbModel.html" "/Users/michael/Documents/projects/Passenger.inform/Build/StatusCblorb.html"
+
+
+! Identification
+
+project folder "/Users/michael/Documents/projects/Passenger.inform"
+release to "/Users/michael/Documents/projects/Passenger.materials/Release"
+
+! Blorb instructions
+
+storyfile leafname "Passenger.zblorb"
+storyfile "/Users/michael/Documents/projects/Passenger.inform/Build/output.z8" include
+ifiction "/Users/michael/Documents/projects/Passenger.inform/Metadata.iFiction" include
+cover "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+picture 1 "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+release file "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+release file "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Small Cover.jpg"
+
+! Placeholder variables
+
+placeholder [IFID] = "392EC548-C406-49F8-A52A-18D51E6165FD"
+placeholder [RELEASE] = "1"
+placeholder [YEAR] = "2016"
+placeholder [TITLE] = "Passenger"
+placeholder [AUTHOR] = "Erin Hoffman-John"
+placeholder [BLURB] = "A work of interactive fiction."
+
+! Other material to release
+
+auxiliary "/Users/michael/Documents/projects/Passenger.materials/passenger.css" "--" "--"
+
+! Website instructions
+
+placeholder [ENCODEDSTORYFILE] = "Passenger.zblorb.js"
+template path "/Users/michael/Documents/projects/Passenger.materials/Templates"
+template path "/Users/michael/Library/Inform/Templates"
+template path "/Applications/Inform.app/Contents/Resources/Internal/Templates"
+placeholder [INTERPRETERSCRIPTS] = " <link rel='stylesheet' href='passenger.css' type='text/css' media='all'></link>"
+interpreter "Vorple" "z"
+base64 "/Users/michael/Documents/projects/Passenger.inform/Build/output.z8" to "/Users/michael/Documents/projects/Passenger.materials/Release/interpreter/Passenger.zblorb.js"
+
+! Website instructions
+
+template path "/Users/michael/Documents/projects/Passenger.materials/Templates"
+template path "/Users/michael/Library/Inform/Templates"
+template path "/Applications/Inform.app/Contents/Resources/Internal/Templates"
+css
+website "Standard"
+status instruction ||&nbsp;<a href="source:story.ni#line6"><img border=0 src=inform:/doc_images/Reveal.tif></a>||
+status instruction ||&nbsp;<a href="source:story.ni#line7"><img border=0 src=inform:/doc_images/Reveal.tif></a>||
+status alternative ||Using 'Release along with cover art', to provide something more distinctive than the default artwork above&nbsp;<a href=inform:/doc403.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the source text'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a solution'&nbsp;<a href=inform:/doc411.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the library card'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory booklet'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory postcard'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||

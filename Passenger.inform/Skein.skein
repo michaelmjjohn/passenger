@@ -1,0 +1,3150 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1002">
+    <generator>Inform Mac Client (Inform version 1.64/6.33/6M62)</generator>
+    <item nodeId="node-1002">
+        <command xml:space="preserve">Passenger</command>
+        <result xml:space="preserve">
+
+
+
+In the beginning there is infinite possibility. We all begin in darkness; without light there is no time, only waiting.
+
+In this game, you type words using your keyboard. If you'd like a hint, type hint and press enter. For a list of commands, type commands.
+
+Passenger
+An Interactive Fiction by Erin Hoffman-John
+Release 1 / Serial number 160423 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
+
+Emptiness
+A vast darkness extends in all directions. Distantly, blurry motes of light seem to float on the horizon -- or it might be a trick of your eyes. 
+
+ There are no obvious exits.
+
+You can see a glowing portal here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1089"></child>
+            <child nodeId="node-1015"></child>
+            <child nodeId="node-1287"></child>
+            <child nodeId="node-1101"></child>
+            <child nodeId="node-1064"></child>
+            <child nodeId="node-1105"></child>
+            <child nodeId="node-1003"></child>
+            <child nodeId="node-1063"></child>
+            <child nodeId="node-1061"></child>
+            <child nodeId="node-1066"></child>
+            <child nodeId="node-1075"></child>
+        </children>
+    </item>
+    <item nodeId="node-1075">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1078"></child>
+            <child nodeId="node-1076"></child>
+        </children>
+    </item>
+    <item nodeId="node-1076">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1077"></child>
+        </children>
+    </item>
+    <item nodeId="node-1077">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+A gentle light glimmers in the distance. You might beckon it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1078">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">You gesture invitingly toward the light. It pauses in midair, then, very distinctly, it draws closer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1079"></child>
+        </children>
+    </item>
+    <item nodeId="node-1079">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">You beckon the light closer again. Again it grows still, seeming to watch you. In its stillness it seems suddenly alive.
+
+After a long moment, the light again swings closer to you.
+
+The gentle light is quite close. You could almost reach out and touch it, but not quite.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1080"></child>
+        </children>
+    </item>
+    <item nodeId="node-1080">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">The light seems less hesitant now, and it's grown larger. Now when you beckon it seems to have been waiting for your gesture, and it immediately floats closer to your hand, near enough to touch.
+
+The gentle light swings in little figure eights through the air, passing close enough to touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1081"></child>
+        </children>
+    </item>
+    <item nodeId="node-1081">
+        <command xml:space="preserve">touch light</command>
+        <result xml:space="preserve">You stretch out your hand and brush the light with your fingertips.
+
+The light shimmers close, weaves one little loop around you, then gathers at your feet. It pools upward, forming a cup, and finally a vessel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1082"></child>
+        </children>
+    </item>
+    <item nodeId="node-1082">
+        <command xml:space="preserve">touch vessel</command>
+        <result xml:space="preserve">The darkness darkens, and when it brightens again, you are somewhere else.
+
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars.
+
+A path south leads to the center of the island.
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1083"></child>
+        </children>
+    </item>
+    <item nodeId="node-1083">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+Worn paths lead north (back to the portal), south, east, and west from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1084"></child>
+        </children>
+    </item>
+    <item nodeId="node-1084">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. 
+
+A path leads north back to the center of the island from here. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1085"></child>
+        </children>
+    </item>
+    <item nodeId="node-1085">
+        <command xml:space="preserve">search hummock</command>
+        <result xml:space="preserve">You find nothing of interest.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1086"></child>
+        </children>
+    </item>
+    <item nodeId="node-1086">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. 
+
+A path leads north back to the center of the island from here. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1087"></child>
+        </children>
+    </item>
+    <item nodeId="node-1087">
+        <command xml:space="preserve">look at hummock</command>
+        <result xml:space="preserve">As you part the fragrant grasses of one of the hummocks, you discover a tunnel leading down into a cave.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1088"></child>
+        </children>
+    </item>
+    <item nodeId="node-1088">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. A tunnel leads downward into a subterranean cave.
+
+You can see a cave here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1066">
+        <command xml:space="preserve">use light</command>
+        <result xml:space="preserve">You must supply a noun.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1067"></child>
+        </children>
+    </item>
+    <item nodeId="node-1067">
+        <command xml:space="preserve">use</command>
+        <result xml:space="preserve">What do you want to use?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1068"></child>
+        </children>
+    </item>
+    <item nodeId="node-1068">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">You gesture invitingly toward the light. It pauses in midair, then, very distinctly, it draws closer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1069"></child>
+        </children>
+    </item>
+    <item nodeId="node-1069">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">You beckon the light closer again. Again it grows still, seeming to watch you. In its stillness it seems suddenly alive.
+
+After a long moment, the light again swings closer to you.
+
+The gentle light is quite close. You could almost reach out and touch it, but not quite.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1070"></child>
+        </children>
+    </item>
+    <item nodeId="node-1070">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">The light seems less hesitant now, and it's grown larger. Now when you beckon it seems to have been waiting for your gesture, and it immediately floats closer to your hand, near enough to touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1071"></child>
+        </children>
+    </item>
+    <item nodeId="node-1071">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">You beckon again, but the light is already as close as it will dare to come. It loops around you again, close enough to touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1072"></child>
+        </children>
+    </item>
+    <item nodeId="node-1072">
+        <command xml:space="preserve">touch ilght</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1073"></child>
+        </children>
+    </item>
+    <item nodeId="node-1073">
+        <command xml:space="preserve">touch light</command>
+        <result xml:space="preserve">You stretch out your hand and brush the light with your fingertips.
+
+The light shimmers close, weaves one little loop around you, then gathers at your feet. It pools upward, forming a cup, and finally a vessel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1074"></child>
+        </children>
+    </item>
+    <item nodeId="node-1074">
+        <command xml:space="preserve">use vessel</command>
+        <result xml:space="preserve">You must supply a noun.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1061">
+        <command xml:space="preserve">taste stars</command>
+        <result xml:space="preserve">You open your mouth and imagine you can taste the ancient stars.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1062"></child>
+        </children>
+    </item>
+    <item nodeId="node-1062">
+        <command xml:space="preserve">look stars</command>
+        <result xml:space="preserve">Whirling galaxies and winking stars extend as far as you can see.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1063">
+        <command xml:space="preserve">look through</command>
+        <result xml:space="preserve">What do you want to look through?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1003">
+        <command xml:space="preserve">look light</command>
+        <result xml:space="preserve">Tiny motes of light float just at the edges of your vision. It's hard to tell if they're there at all.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1004"></child>
+        </children>
+    </item>
+    <item nodeId="node-1004">
+        <command xml:space="preserve">look light</command>
+        <result xml:space="preserve">Tiny motes of light float just at the edges of your vision. It's hard to tell if they're there at all.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1005"></child>
+        </children>
+    </item>
+    <item nodeId="node-1005">
+        <command xml:space="preserve">look light'</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1006"></child>
+        </children>
+    </item>
+    <item nodeId="node-1006">
+        <command xml:space="preserve">look light'</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1007"></child>
+        </children>
+    </item>
+    <item nodeId="node-1007">
+        <command xml:space="preserve">look light</command>
+        <result xml:space="preserve">Tiny motes of light float just at the edges of your vision. It's hard to tell if they're there at all.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1008"></child>
+        </children>
+    </item>
+    <item nodeId="node-1008">
+        <command xml:space="preserve">take light</command>
+        <result xml:space="preserve">The lights are small and elusive. They might respond to beckoning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1009"></child>
+        </children>
+    </item>
+    <item nodeId="node-1009">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">You gesture invitingly toward the light. It pauses in midair, then, very distinctly, it draws closer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1010"></child>
+        </children>
+    </item>
+    <item nodeId="node-1010">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">You beckon the light closer again. Again it grows still, seeming to watch you. In its stillness it seems suddenly alive.
+
+After a long moment, the light again swings closer to you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1011"></child>
+        </children>
+    </item>
+    <item nodeId="node-1011">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">The light seems less hesitant now, and it's grown larger. Now when you beckon it seems to have been waiting for your gesture, and it immediately floats closer to your hand, near enough to touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1012"></child>
+        </children>
+    </item>
+    <item nodeId="node-1012">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">You beckon again, but the light is already as close as it will dare to come. It loops around you again, close enough to touch.
+
+The gentle light swings in little figure eights through the air, passing close enough to touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1013"></child>
+        </children>
+    </item>
+    <item nodeId="node-1013">
+        <command xml:space="preserve">touch light</command>
+        <result xml:space="preserve">You stretch out your hand and brush the light with your fingertips.
+
+The light shimmers close, weaves one little loop around you, then gathers at your feet. It pools upward, forming a cup, and finally a vessel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1014"></child>
+        </children>
+    </item>
+    <item nodeId="node-1014">
+        <command xml:space="preserve">take vessel</command>
+        <result xml:space="preserve">The darkness darkens, and when it brightens again, you are somewhere else.
+
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1105">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Emptiness
+A vast darkness extends in all directions. Distantly, blurry motes of light seem to float on the horizon -- or it might be a trick of your eyes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1106"></child>
+        </children>
+    </item>
+    <item nodeId="node-1106">
+        <command xml:space="preserve">look motes</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1107"></child>
+        </children>
+    </item>
+    <item nodeId="node-1107">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1108"></child>
+        </children>
+    </item>
+    <item nodeId="node-1108">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">You can't go that way.
+
+A gentle light glimmers in the distance. You might beckon it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1109"></child>
+        </children>
+    </item>
+    <item nodeId="node-1109">
+        <command xml:space="preserve">beckon</command>
+        <result xml:space="preserve">What do you want to beckon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1110"></child>
+        </children>
+    </item>
+    <item nodeId="node-1110">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">You gesture invitingly toward the light. It pauses in midair, then, very distinctly, it draws closer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1111"></child>
+        </children>
+    </item>
+    <item nodeId="node-1111">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">You beckon the light closer again. Again it grows still, seeming to watch you. In its stillness it seems suddenly alive.
+
+After a long moment, the light again swings closer to you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1112"></child>
+        </children>
+    </item>
+    <item nodeId="node-1112">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">The light seems less hesitant now, and it's grown larger. Now when you beckon it seems to have been waiting for your gesture, and it immediately floats closer to your hand, near enough to touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1113"></child>
+        </children>
+    </item>
+    <item nodeId="node-1113">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">You beckon again, but the light is already as close as it will dare to come. It loops around you again, close enough to touch.
+
+The gentle light swings in little figure eights through the air, passing close enough to touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1114"></child>
+        </children>
+    </item>
+    <item nodeId="node-1114">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">You beckon again, but the light is already as close as it will dare to come. It loops around you again, close enough to touch.
+
+The gentle light swings in little figure eights through the air, passing close enough to touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1115"></child>
+        </children>
+    </item>
+    <item nodeId="node-1115">
+        <command xml:space="preserve">touch light</command>
+        <result xml:space="preserve">You stretch out your hand and brush the light with your fingertips.
+
+The light shimmers close, weaves one little loop around you, then gathers at your feet. It pools upward, forming a cup, and finally a vessel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1116"></child>
+        </children>
+    </item>
+    <item nodeId="node-1116">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Emptiness
+A vast darkness extends in all directions. Distantly, blurry motes of light seem to float on the horizon -- or it might be a trick of your eyes.
+
+You can see a vessel (empty) here.
+
+(You might get a hint here.).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1117"></child>
+        </children>
+    </item>
+    <item nodeId="node-1117">
+        <command xml:space="preserve">touch vessel</command>
+        <result xml:space="preserve">The darkness darkens, and when it brightens again, you are somewhere else.
+
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1118"></child>
+        </children>
+    </item>
+    <item nodeId="node-1118">
+        <command xml:space="preserve">look monument</command>
+        <result xml:space="preserve">An alabaster obelisk rising up from the grass, the monument is inscribed with an infinity knot inlaid with shining garnet tiles. Each tile seems to glow from within, reflecting the light of the stars overhead.
+
+As you inspect the monument, one of the tiles falls away from the infinity knot and lands on the ground.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1119"></child>
+        </children>
+    </item>
+    <item nodeId="node-1119">
+        <command xml:space="preserve">look tile</command>
+        <result xml:space="preserve">This blood red stone tile seems to have stored starlight within it; it glows subtly.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1120"></child>
+        </children>
+    </item>
+    <item nodeId="node-1120">
+        <command xml:space="preserve">get tile</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1121"></child>
+        </children>
+    </item>
+    <item nodeId="node-1121">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1122"></child>
+        </children>
+    </item>
+    <item nodeId="node-1122">
+        <command xml:space="preserve">look vessel</command>
+        <result xml:space="preserve">You see nothing special about the shadowy vessel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1123"></child>
+        </children>
+    </item>
+    <item nodeId="node-1123">
+        <command xml:space="preserve">look monument</command>
+        <result xml:space="preserve">An alabaster obelisk rising up from the grass, the monument is inscribed with an infinity knot inlaid with shining garnet tiles. Each tile seems to glow from within, reflecting the light of the stars overhead.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1124"></child>
+        </children>
+    </item>
+    <item nodeId="node-1124">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1125"></child>
+        </children>
+    </item>
+    <item nodeId="node-1125">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1126"></child>
+        </children>
+    </item>
+    <item nodeId="node-1126">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+(You might get a hint here.).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1127"></child>
+        </children>
+    </item>
+    <item nodeId="node-1127">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1128"></child>
+        </children>
+    </item>
+    <item nodeId="node-1128">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1129"></child>
+        </children>
+    </item>
+    <item nodeId="node-1129">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1130"></child>
+        </children>
+    </item>
+    <item nodeId="node-1130">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1131"></child>
+        </children>
+    </item>
+    <item nodeId="node-1131">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1132"></child>
+        </children>
+    </item>
+    <item nodeId="node-1132">
+        <command xml:space="preserve">look trees</command>
+        <result xml:space="preserve">A sudden narrow stand of redwoods erupts out of the ground at the center of the island. On one low slung branch of the nearest tree, you can see a nest made of twigs.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1133"></child>
+        </children>
+    </item>
+    <item nodeId="node-1133">
+        <command xml:space="preserve">look nest</command>
+        <result xml:space="preserve">This nest was well maintained at one time, but its occupants have migrated elsewhere.
+
+In the nest is a feather.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1134"></child>
+        </children>
+    </item>
+    <item nodeId="node-1134">
+        <command xml:space="preserve">get feather</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1135"></child>
+        </children>
+    </item>
+    <item nodeId="node-1135">
+        <command xml:space="preserve">look feather</command>
+        <result xml:space="preserve">It's a long, slim red feather, grey at the tip. It looks like it came from a sparrow of some kind.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1136"></child>
+        </children>
+    </item>
+    <item nodeId="node-1136">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+On the trees is a nest (empty).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1137"></child>
+        </children>
+    </item>
+    <item nodeId="node-1137">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1138"></child>
+        </children>
+    </item>
+    <item nodeId="node-1138">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1139"></child>
+        </children>
+    </item>
+    <item nodeId="node-1139">
+        <command xml:space="preserve">look hummocks</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1140"></child>
+        </children>
+    </item>
+    <item nodeId="node-1140">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+On the trees is a nest (empty).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1141"></child>
+        </children>
+    </item>
+    <item nodeId="node-1141">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1142"></child>
+        </children>
+    </item>
+    <item nodeId="node-1142">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1143"></child>
+        </children>
+    </item>
+    <item nodeId="node-1143">
+        <command xml:space="preserve">take vessel</command>
+        <result xml:space="preserve">The darkness darkens, and when it brightens again, you are somewhere else.
+
+Emptiness
+A vast darkness extends in all directions. Distantly, blurry motes of light seem to float on the horizon -- or it might be a trick of your eyes.
+
+You can see a vessel (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1144"></child>
+        </children>
+    </item>
+    <item nodeId="node-1144">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1145"></child>
+        </children>
+    </item>
+    <item nodeId="node-1145">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1146"></child>
+        </children>
+    </item>
+    <item nodeId="node-1146">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">You can't go that way.
+
+(You might get a hint here.).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1147"></child>
+        </children>
+    </item>
+    <item nodeId="node-1147">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1148"></child>
+        </children>
+    </item>
+    <item nodeId="node-1148">
+        <command xml:space="preserve">look motes</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1149"></child>
+        </children>
+    </item>
+    <item nodeId="node-1149">
+        <command xml:space="preserve">look light</command>
+        <result xml:space="preserve">Tiny lights are still visible in the distance, but you'll be unable to summon more until this vessel is completed.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1150"></child>
+        </children>
+    </item>
+    <item nodeId="node-1150">
+        <command xml:space="preserve">look vessel</command>
+        <result xml:space="preserve">The vessel seems to be made from starglass, bright and translucent. Despite the darkness it seems to radiate a gentle light of its own.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1151"></child>
+        </children>
+    </item>
+    <item nodeId="node-1151">
+        <command xml:space="preserve">put feather</command>
+        <result xml:space="preserve">What do you want to put the feather in?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1152"></child>
+        </children>
+    </item>
+    <item nodeId="node-1152">
+        <command xml:space="preserve">vessel</command>
+        <result xml:space="preserve">You drop the feather into the vessel.
+
+As the feather slips down past the edge of the starglass, it dissolves into a shadow that then inverts itself into light.
+
+There is some hope in the vessel now.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1153"></child>
+        </children>
+    </item>
+    <item nodeId="node-1153">
+        <command xml:space="preserve">look vessel</command>
+        <result xml:space="preserve">The vessel seems to be made from starglass, bright and translucent. Despite the darkness it seems to radiate a gentle light of its own. Nebulous colors swirl within the vessel.
+
+In the vessel is hope for the future.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1154"></child>
+        </children>
+    </item>
+    <item nodeId="node-1154">
+        <command xml:space="preserve">take vessel</command>
+        <result xml:space="preserve">The darkness darkens, and when it brightens again, you are somewhere else.
+
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1155"></child>
+        </children>
+    </item>
+    <item nodeId="node-1155">
+        <command xml:space="preserve">inventory</command>
+        <result xml:space="preserve">You are carrying:
+  a garnet tile
+
+(You might get a hint here.).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1156"></child>
+        </children>
+    </item>
+    <item nodeId="node-1156">
+        <command xml:space="preserve">put tile</command>
+        <result xml:space="preserve">(in the garnet tile)
+You can't put something inside itself.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1157"></child>
+        </children>
+    </item>
+    <item nodeId="node-1157">
+        <command xml:space="preserve">put tile</command>
+        <result xml:space="preserve">(in the garnet tile)
+You can't put something inside itself.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1158"></child>
+        </children>
+    </item>
+    <item nodeId="node-1158">
+        <command xml:space="preserve">put tile in vessel</command>
+        <result xml:space="preserve">You reach toward the shadowy vessel, and the world moves.
+
+The darkness darkens, and when it brightens again, you are somewhere else.
+
+Emptiness
+A vast darkness extends in all directions. Distantly, blurry motes of light seem to float on the horizon -- or it might be a trick of your eyes.
+
+You can see a vessel (in which is hope for the future) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1159"></child>
+        </children>
+    </item>
+    <item nodeId="node-1159">
+        <command xml:space="preserve">look vessel</command>
+        <result xml:space="preserve">The vessel seems to be made from starglass, bright and translucent. Despite the darkness it seems to radiate a gentle light of its own. Nebulous colors swirl within the vessel.
+
+In the vessel is hope for the future.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1160"></child>
+        </children>
+    </item>
+    <item nodeId="node-1160">
+        <command xml:space="preserve">inventory</command>
+        <result xml:space="preserve">You are carrying:
+  a garnet tile
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1161"></child>
+        </children>
+    </item>
+    <item nodeId="node-1161">
+        <command xml:space="preserve">take vessel</command>
+        <result xml:space="preserve">The darkness darkens, and when it brightens again, you are somewhere else.
+
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1162"></child>
+        </children>
+    </item>
+    <item nodeId="node-1162">
+        <command xml:space="preserve">put tile</command>
+        <result xml:space="preserve">(in the garnet tile)
+You can't put something inside itself.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1163"></child>
+        </children>
+    </item>
+    <item nodeId="node-1163">
+        <command xml:space="preserve">put tile in vessel</command>
+        <result xml:space="preserve">You reach toward the shadowy vessel, and the world moves.
+
+The darkness darkens, and when it brightens again, you are somewhere else.
+
+Emptiness
+A vast darkness extends in all directions. Distantly, blurry motes of light seem to float on the horizon -- or it might be a trick of your eyes.
+
+You can see a vessel (in which is hope for the future) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1164"></child>
+        </children>
+    </item>
+    <item nodeId="node-1164">
+        <command xml:space="preserve">put tile in vessel</command>
+        <result xml:space="preserve">You drop the tile into the vessel.
+
+As the garnet tile descends into the vessel, it seems to slow, and slow, and slow -- and finally stop entirely. Light explodes outward from the inside of the gem, radiating outward until it illuminates the vessel in a near-blinding glow.
+
+There is a piece of the infinite in the vessel now.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1165"></child>
+        </children>
+    </item>
+    <item nodeId="node-1165">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Emptiness
+A vast darkness extends in all directions. Distantly, blurry motes of light seem to float on the horizon -- or it might be a trick of your eyes.
+
+You can see a vessel (in which are an a piece of the infinite and hope for the future) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1166"></child>
+        </children>
+    </item>
+    <item nodeId="node-1166">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Emptiness
+A vast darkness extends in all directions. Distantly, blurry motes of light seem to float on the horizon -- or it might be a trick of your eyes.
+
+You can see a vessel (in which are an a piece of the infinite and hope for the future) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1167"></child>
+        </children>
+    </item>
+    <item nodeId="node-1167">
+        <command xml:space="preserve">look light</command>
+        <result xml:space="preserve">Tiny lights are still visible in the distance, but you'll be unable to summon more until this vessel is completed.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1168"></child>
+        </children>
+    </item>
+    <item nodeId="node-1168">
+        <command xml:space="preserve">take vessel</command>
+        <result xml:space="preserve">The darkness darkens, and when it brightens again, you are somewhere else.
+
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+You can see a shadowy vessel and an alabaster monument here.
+
+(You might get a hint here.).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1169"></child>
+        </children>
+    </item>
+    <item nodeId="node-1169">
+        <command xml:space="preserve">take vessel</command>
+        <result xml:space="preserve">The darkness darkens, and when it brightens again, you are somewhere else.
+
+Emptiness
+A vast darkness extends in all directions. Distantly, blurry motes of light seem to float on the horizon -- or it might be a trick of your eyes.
+
+You can see a vessel (in which are an a piece of the infinite and hope for the future) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1170"></child>
+        </children>
+    </item>
+    <item nodeId="node-1170">
+        <command xml:space="preserve">take vessel</command>
+        <result xml:space="preserve">The darkness darkens, and when it brightens again, you are somewhere else.
+
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1171"></child>
+        </children>
+    </item>
+    <item nodeId="node-1171">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1172"></child>
+        </children>
+    </item>
+    <item nodeId="node-1172">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+On the trees is a nest (empty).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1173"></child>
+        </children>
+    </item>
+    <item nodeId="node-1173">
+        <command xml:space="preserve">look trees</command>
+        <result xml:space="preserve">A sudden narrow stand of redwoods erupts out of the ground at the center of the island. On one low slung branch of the nearest tree, you can see a nest made of twigs.
+
+On the trees is a nest (empty).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1174"></child>
+        </children>
+    </item>
+    <item nodeId="node-1174">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1175"></child>
+        </children>
+    </item>
+    <item nodeId="node-1175">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1176"></child>
+        </children>
+    </item>
+    <item nodeId="node-1176">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1177"></child>
+        </children>
+    </item>
+    <item nodeId="node-1177">
+        <command xml:space="preserve">look grasses</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1178"></child>
+        </children>
+    </item>
+    <item nodeId="node-1178">
+        <command xml:space="preserve">look hummocks</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1179"></child>
+        </children>
+    </item>
+    <item nodeId="node-1179">
+        <command xml:space="preserve">look hummock</command>
+        <result xml:space="preserve">As you part the fragrant grasses of one of the hummocks, you discover a tunnel leading down into a cave.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1180"></child>
+        </children>
+    </item>
+    <item nodeId="node-1180">
+        <command xml:space="preserve">look cave</command>
+        <result xml:space="preserve">You see nothing special about the cave.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1181"></child>
+        </children>
+    </item>
+    <item nodeId="node-1181">
+        <command xml:space="preserve">look tunnel</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1182"></child>
+        </children>
+    </item>
+    <item nodeId="node-1182">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1183"></child>
+        </children>
+    </item>
+    <item nodeId="node-1183">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+On the trees is a nest (empty).
+
+(You might get a hint here.).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1184"></child>
+        </children>
+    </item>
+    <item nodeId="node-1184">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. A tunnel leads downward into a subterranean cave.
+
+You can see a cave here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1185"></child>
+        </children>
+    </item>
+    <item nodeId="node-1185">
+        <command xml:space="preserve">go tunnel</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1186"></child>
+        </children>
+    </item>
+    <item nodeId="node-1186">
+        <command xml:space="preserve">enter tunnel</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1187"></child>
+        </children>
+    </item>
+    <item nodeId="node-1187">
+        <command xml:space="preserve">enter cave</command>
+        <result xml:space="preserve">A Grassy Island, Subterranean Cave
+Light filters down from the grass-fringed opening of the tunnel. Soil and packed dirt give way to rock as the cave winds to the north. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1188"></child>
+        </children>
+    </item>
+    <item nodeId="node-1188">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+A Grassy Island, Subterranean Cave
+The cave ends here in a rounded wall. A fox has made its nest here. 
+
+You can see a growling fox here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1189"></child>
+        </children>
+    </item>
+    <item nodeId="node-1189">
+        <command xml:space="preserve">look fox</command>
+        <result xml:space="preserve">You have cornered a female fox. She crouches, snarling, protecting the pups behind her.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1190"></child>
+        </children>
+    </item>
+    <item nodeId="node-1190">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1191"></child>
+        </children>
+    </item>
+    <item nodeId="node-1191">
+        <command xml:space="preserve">take fox</command>
+        <result xml:space="preserve">Who do you mean, the fox pups or the growling fox?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1192"></child>
+        </children>
+    </item>
+    <item nodeId="node-1192">
+        <command xml:space="preserve">take growling fox</command>
+        <result xml:space="preserve">I don't suppose the growling fox would care for that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1193"></child>
+        </children>
+    </item>
+    <item nodeId="node-1193">
+        <command xml:space="preserve">take fox pups</command>
+        <result xml:space="preserve">I don't suppose the fox pups would care for that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1194"></child>
+        </children>
+    </item>
+    <item nodeId="node-1194">
+        <command xml:space="preserve">inventory</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1195"></child>
+        </children>
+    </item>
+    <item nodeId="node-1195">
+        <command xml:space="preserve">look nest</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1196"></child>
+        </children>
+    </item>
+    <item nodeId="node-1196">
+        <command xml:space="preserve">look pups</command>
+        <result xml:space="preserve">A group of five young pups huddles behind the fox mother. One fox is bright-eyed and sharp; another is rotund; another seems to be missing one eye; the fourth is unremarkable; and the last has a quiet intelligence.
+
+As you peer closely at the pups, the mother fox snarls viciously again and hops at you, dislodging a pebble from the wall beside her.
+
+(You might get a hint here.).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1197"></child>
+        </children>
+    </item>
+    <item nodeId="node-1197">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">A Grassy Island, Subterranean Cave
+The cave ends here in a rounded wall. A fox has made its nest here. 
+
+You can see a granite pebble, some fox pups and a growling fox here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1198"></child>
+        </children>
+    </item>
+    <item nodeId="node-1198">
+        <command xml:space="preserve">take pebble</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1199"></child>
+        </children>
+    </item>
+    <item nodeId="node-1199">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, Subterranean Cave
+Light filters down from the grass-fringed opening of the tunnel. Soil and packed dirt give way to rock as the cave winds to the north. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1200"></child>
+        </children>
+    </item>
+    <item nodeId="node-1200">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1201"></child>
+        </children>
+    </item>
+    <item nodeId="node-1201">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1202"></child>
+        </children>
+    </item>
+    <item nodeId="node-1202">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+A Grassy Island, Subterranean Cave
+The cave ends here in a rounded wall. A fox has made its nest here. 
+
+You can see some fox pups and a growling fox here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1203"></child>
+        </children>
+    </item>
+    <item nodeId="node-1203">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1204"></child>
+        </children>
+    </item>
+    <item nodeId="node-1204">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, Subterranean Cave
+Light filters down from the grass-fringed opening of the tunnel. Soil and packed dirt give way to rock as the cave winds to the north. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1205"></child>
+        </children>
+    </item>
+    <item nodeId="node-1205">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. A tunnel leads downward into a subterranean cave.
+
+You can see a cave here.
+
+(You might get a hint here.).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1206"></child>
+        </children>
+    </item>
+    <item nodeId="node-1206">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+On the trees is a nest (empty).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1207"></child>
+        </children>
+    </item>
+    <item nodeId="node-1207">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1208"></child>
+        </children>
+    </item>
+    <item nodeId="node-1208">
+        <command xml:space="preserve">put pebble in vessel</command>
+        <result xml:space="preserve">You reach toward the shadowy vessel, and the world moves.
+
+The darkness darkens, and when it brightens again, you are somewhere else.
+
+Emptiness
+A vast darkness extends in all directions. Distantly, blurry motes of light seem to float on the horizon -- or it might be a trick of your eyes.
+
+You can see a vessel (in which are an a piece of the infinite and hope for the future) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1209"></child>
+        </children>
+    </item>
+    <item nodeId="node-1209">
+        <command xml:space="preserve">put pebble in vessel</command>
+        <result xml:space="preserve">You drop the pebble into the vessel.
+
+The pebble bounces wildly off the sides of the vessel, unpredictable. With each bounce it gains a bit of speed, until finally it is flying, streaking.
+
+A determined unconditional love bounces around the vessel now.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1210"></child>
+        </children>
+    </item>
+    <item nodeId="node-1210">
+        <command xml:space="preserve">look vessel</command>
+        <result xml:space="preserve">The vessel seems to be made from starglass, bright and translucent. Despite the darkness it seems to radiate a gentle light of its own. Nebulous colors swirl within the vessel.
+
+In the vessel are unconditional love, an a piece of the infinite and hope for the future.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1211"></child>
+        </children>
+    </item>
+    <item nodeId="node-1211">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1212"></child>
+        </children>
+    </item>
+    <item nodeId="node-1212">
+        <command xml:space="preserve">look vessel</command>
+        <result xml:space="preserve">The vessel seems to be made from starglass, bright and translucent. Despite the darkness it seems to radiate a gentle light of its own. Nebulous colors swirl within the vessel.
+
+In the vessel are unconditional love, an a piece of the infinite and hope for the future.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1213"></child>
+        </children>
+    </item>
+    <item nodeId="node-1213">
+        <command xml:space="preserve">take vessel</command>
+        <result xml:space="preserve">The darkness darkens, and when it brightens again, you are somewhere else.
+
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+You can see a shadowy vessel and an alabaster monument here.
+
+(You might get a hint here.).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1214"></child>
+        </children>
+    </item>
+    <item nodeId="node-1214">
+        <command xml:space="preserve">look stars</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1215"></child>
+        </children>
+    </item>
+    <item nodeId="node-1215">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+On the trees is a nest (empty).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1216"></child>
+        </children>
+    </item>
+    <item nodeId="node-1216">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. A tunnel leads downward into a subterranean cave.
+
+You can see a cave here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1217"></child>
+        </children>
+    </item>
+    <item nodeId="node-1217">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1218"></child>
+        </children>
+    </item>
+    <item nodeId="node-1218">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1219"></child>
+        </children>
+    </item>
+    <item nodeId="node-1219">
+        <command xml:space="preserve">enter cave</command>
+        <result xml:space="preserve">A Grassy Island, Subterranean Cave
+Light filters down from the grass-fringed opening of the tunnel. Soil and packed dirt give way to rock as the cave winds to the north. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1220"></child>
+        </children>
+    </item>
+    <item nodeId="node-1220">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+A Grassy Island, Subterranean Cave
+The cave ends here in a rounded wall. A fox has made its nest here. 
+
+You can see some fox pups and a growling fox here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1221"></child>
+        </children>
+    </item>
+    <item nodeId="node-1221">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1222"></child>
+        </children>
+    </item>
+    <item nodeId="node-1222">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1223"></child>
+        </children>
+    </item>
+    <item nodeId="node-1223">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, Subterranean Cave
+Light filters down from the grass-fringed opening of the tunnel. Soil and packed dirt give way to rock as the cave winds to the north. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1224"></child>
+        </children>
+    </item>
+    <item nodeId="node-1224">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. A tunnel leads downward into a subterranean cave.
+
+You can see a cave here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1225"></child>
+        </children>
+    </item>
+    <item nodeId="node-1225">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+On the trees is a nest (empty).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1226"></child>
+        </children>
+    </item>
+    <item nodeId="node-1226">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1227"></child>
+        </children>
+    </item>
+    <item nodeId="node-1227">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1228"></child>
+        </children>
+    </item>
+    <item nodeId="node-1228">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+On the trees is a nest (empty).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1229"></child>
+        </children>
+    </item>
+    <item nodeId="node-1229">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+A Grassy Island, East End
+Sheltered from the star winds, this end of the island has a twilight tranquility. A gazebo looks out into the stars, surrounded by carefully manicured grass. 
+
+You can see a pedestal (on which is a cloisonne pot (in which is a bonsai plant)) here.
+
+(You might get a hint here.).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1230"></child>
+        </children>
+    </item>
+    <item nodeId="node-1230">
+        <command xml:space="preserve">look pot</command>
+        <result xml:space="preserve">The exquisitely painted pot contains a bonsai plant. Both are beautiful, but the plant seems to be straining at its confines.
+
+In the cloisonne pot is a bonsai plant.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1231"></child>
+        </children>
+    </item>
+    <item nodeId="node-1231">
+        <command xml:space="preserve">look plant</command>
+        <result xml:space="preserve">This bonsai juniper has delicate leaves and an elegantly curving trunk. Its roots rise out of its small pot of soil, lifting it, straining against the lacquered sides.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1232"></child>
+        </children>
+    </item>
+    <item nodeId="node-1232">
+        <command xml:space="preserve">take plant</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1233"></child>
+        </children>
+    </item>
+    <item nodeId="node-1233">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+On the trees is a nest (empty).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1234"></child>
+        </children>
+    </item>
+    <item nodeId="node-1234">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1235"></child>
+        </children>
+    </item>
+    <item nodeId="node-1235">
+        <command xml:space="preserve">put plant in vessel</command>
+        <result xml:space="preserve">You reach toward the shadowy vessel, and the world moves.
+
+The darkness darkens, and when it brightens again, you are somewhere else.
+
+Emptiness
+A vast darkness extends in all directions. Distantly, blurry motes of light seem to float on the horizon -- or it might be a trick of your eyes.
+
+You can see a vessel (in which are unconditional love, an a piece of the infinite and hope for the future) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1236"></child>
+        </children>
+    </item>
+    <item nodeId="node-1236">
+        <command xml:space="preserve">put plant in vessel</command>
+        <result xml:space="preserve">You wouldn't want to put something living into the vessel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1237"></child>
+        </children>
+    </item>
+    <item nodeId="node-1237">
+        <command xml:space="preserve">look vessel</command>
+        <result xml:space="preserve">The vessel seems to be made from starglass, bright and translucent. Despite the darkness it seems to radiate a gentle light of its own. Nebulous colors swirl within the vessel.
+
+In the vessel are unconditional love, an a piece of the infinite and hope for the future.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1238"></child>
+        </children>
+    </item>
+    <item nodeId="node-1238">
+        <command xml:space="preserve">take vessel</command>
+        <result xml:space="preserve">The darkness darkens, and when it brightens again, you are somewhere else.
+
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1239"></child>
+        </children>
+    </item>
+    <item nodeId="node-1239">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+On the trees is a nest (empty).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1240"></child>
+        </children>
+    </item>
+    <item nodeId="node-1240">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">
+A Grassy Island, West End
+The ground rises here into an angled precipice of stacked stone that looks out into the sky. Perched on the edge of the precipice is a brass telescope, trained on a distant blue planet.
+
+You can see a brass telescope (closed) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1241"></child>
+        </children>
+    </item>
+    <item nodeId="node-1241">
+        <command xml:space="preserve">look telescope</command>
+        <result xml:space="preserve">A long tube of brass punctuated by focusing rings is pointed at a tiny blue dot in the distant sky. Within the telescope is a series of lenses.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1242"></child>
+        </children>
+    </item>
+    <item nodeId="node-1242">
+        <command xml:space="preserve">use telescope</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1243"></child>
+        </children>
+    </item>
+    <item nodeId="node-1243">
+        <command xml:space="preserve">take telescope</command>
+        <result xml:space="preserve">It is bolted to the precipice, probably for stability.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1244"></child>
+        </children>
+    </item>
+    <item nodeId="node-1244">
+        <command xml:space="preserve">look in telescope</command>
+        <result xml:space="preserve">You train the telescope on the blue planet. Far, far below, you see a family eating dinner.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1245"></child>
+        </children>
+    </item>
+    <item nodeId="node-1245">
+        <command xml:space="preserve">look in telescope</command>
+        <result xml:space="preserve">You train the telescope on the blue planet. Far, far below, you see a boy playing fetch with a dog.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1246"></child>
+        </children>
+    </item>
+    <item nodeId="node-1246">
+        <command xml:space="preserve">look in telescope</command>
+        <result xml:space="preserve">You train the telescope on the blue planet. Far, far below, you see a man holding up a convenience store with a gun.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1247"></child>
+        </children>
+    </item>
+    <item nodeId="node-1247">
+        <command xml:space="preserve">look in telescope</command>
+        <result xml:space="preserve">You train the telescope on the blue planet. Far, far below, you see a couple shouting at each other.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1248"></child>
+        </children>
+    </item>
+    <item nodeId="node-1248">
+        <command xml:space="preserve">look in telescope</command>
+        <result xml:space="preserve">You train the telescope on the blue planet. Far, far below, you see a long table of world leaders discussing a conflict.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1249"></child>
+        </children>
+    </item>
+    <item nodeId="node-1249">
+        <command xml:space="preserve">look in telescope</command>
+        <result xml:space="preserve">You train the telescope on the blue planet. Far, far below, you see a group of women gathering rice.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1250"></child>
+        </children>
+    </item>
+    <item nodeId="node-1250">
+        <command xml:space="preserve">look in telescope</command>
+        <result xml:space="preserve">You train the telescope on the blue planet. Far, far below, you see a jet fighter blasting across the sky.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1251"></child>
+        </children>
+    </item>
+    <item nodeId="node-1251">
+        <command xml:space="preserve">look in telescope</command>
+        <result xml:space="preserve">You train the telescope on the blue planet. Far, far below, you see a girl constructing a robot.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1252"></child>
+        </children>
+    </item>
+    <item nodeId="node-1252">
+        <command xml:space="preserve">look in telescope</command>
+        <result xml:space="preserve">You train the telescope on the blue planet. Far, far below, you see a couple shouting at each other.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1253"></child>
+        </children>
+    </item>
+    <item nodeId="node-1253">
+        <command xml:space="preserve">look in telescope</command>
+        <result xml:space="preserve">You train the telescope on the blue planet. Far, far below, you see a boy playing fetch with a dog.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1254"></child>
+        </children>
+    </item>
+    <item nodeId="node-1254">
+        <command xml:space="preserve">look in telescope</command>
+        <result xml:space="preserve">You train the telescope on the blue planet. Far, far below, you see a long table of world leaders discussing a conflict.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1255"></child>
+        </children>
+    </item>
+    <item nodeId="node-1255">
+        <command xml:space="preserve">look in telescope</command>
+        <result xml:space="preserve">You train the telescope on the blue planet. Far, far below, you see a man holding up a convenience store with a gun.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1256"></child>
+        </children>
+    </item>
+    <item nodeId="node-1256">
+        <command xml:space="preserve">look in telescope</command>
+        <result xml:space="preserve">You train the telescope on the blue planet. Far, far below, you see a girl constructing a robot.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1257"></child>
+        </children>
+    </item>
+    <item nodeId="node-1257">
+        <command xml:space="preserve">take lens</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1258"></child>
+        </children>
+    </item>
+    <item nodeId="node-1258">
+        <command xml:space="preserve">take lenses</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1259"></child>
+        </children>
+    </item>
+    <item nodeId="node-1259">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">A Grassy Island, West End
+The ground rises here into an angled precipice of stacked stone that looks out into the sky. Perched on the edge of the precipice is a brass telescope, trained on a distant blue planet.
+
+You can see a brass telescope (closed) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1260"></child>
+        </children>
+    </item>
+    <item nodeId="node-1260">
+        <command xml:space="preserve">inventory</command>
+        <result xml:space="preserve">You are carrying:
+  a bonsai plant
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1261"></child>
+        </children>
+    </item>
+    <item nodeId="node-1261">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1262"></child>
+        </children>
+    </item>
+    <item nodeId="node-1262">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+On the trees is a nest (empty).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1263"></child>
+        </children>
+    </item>
+    <item nodeId="node-1263">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">
+A Grassy Island, West End
+The ground rises here into an angled precipice of stacked stone that looks out into the sky. Perched on the edge of the precipice is a brass telescope, trained on a distant blue planet.
+
+You can see a brass telescope (closed) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1264"></child>
+        </children>
+    </item>
+    <item nodeId="node-1264">
+        <command xml:space="preserve">open telescope</command>
+        <result xml:space="preserve">You carefully unscrew the brass cuff at the far end of the telescope.
+
+(You might get a hint here.).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1265"></child>
+        </children>
+    </item>
+    <item nodeId="node-1265">
+        <command xml:space="preserve">look telescope</command>
+        <result xml:space="preserve">A long tube of brass punctuated by focusing rings is pointed at a tiny blue dot in the distant sky. Within the telescope is a series of lenses.
+
+In the brass telescope is a glass lens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1266"></child>
+        </children>
+    </item>
+    <item nodeId="node-1266">
+        <command xml:space="preserve">take lens</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1267"></child>
+        </children>
+    </item>
+    <item nodeId="node-1267">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+On the trees is a nest (empty).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1268"></child>
+        </children>
+    </item>
+    <item nodeId="node-1268">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1269"></child>
+        </children>
+    </item>
+    <item nodeId="node-1269">
+        <command xml:space="preserve">put lens in vessel</command>
+        <result xml:space="preserve">You reach toward the shadowy vessel, and the world moves.
+
+The darkness darkens, and when it brightens again, you are somewhere else.
+
+Emptiness
+A vast darkness extends in all directions. Distantly, blurry motes of light seem to float on the horizon -- or it might be a trick of your eyes.
+
+You can see a vessel (in which are unconditional love, an a piece of the infinite and hope for the future) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1270"></child>
+        </children>
+    </item>
+    <item nodeId="node-1270">
+        <command xml:space="preserve">put lens in vessel</command>
+        <result xml:space="preserve">You drop the glass lens into the vessel.
+
+It falls, spinning, into the glowing depths. It spins faster and faster until it becomes a sphere of golden light.
+
+Faith in humanity fills the vessel now.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1271"></child>
+        </children>
+    </item>
+    <item nodeId="node-1271">
+        <command xml:space="preserve">look vessel</command>
+        <result xml:space="preserve">The vessel seems to be made from starglass, bright and translucent. Despite the darkness it seems to radiate a gentle light of its own. Nebulous colors swirl within the vessel.
+
+In the vessel are faith in humanity, unconditional love, an a piece of the infinite and hope for the future.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1272"></child>
+        </children>
+    </item>
+    <item nodeId="node-1272">
+        <command xml:space="preserve">take vessel</command>
+        <result xml:space="preserve">The darkness darkens, and when it brightens again, you are somewhere else.
+
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+You can see a shadowy vessel and an alabaster monument here.
+
+(You might get a hint here.).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1273"></child>
+        </children>
+    </item>
+    <item nodeId="node-1273">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+On the trees is a nest (empty).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1274"></child>
+        </children>
+    </item>
+    <item nodeId="node-1274">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">
+A Grassy Island, West End
+The ground rises here into an angled precipice of stacked stone that looks out into the sky. Perched on the edge of the precipice is a brass telescope, trained on a distant blue planet.
+
+You can see a brass telescope (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1275"></child>
+        </children>
+    </item>
+    <item nodeId="node-1275">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+On the trees is a nest (empty).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1276"></child>
+        </children>
+    </item>
+    <item nodeId="node-1276">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+A Grassy Island, East End
+Sheltered from the star winds, this end of the island has a twilight tranquility. A gazebo looks out into the stars, surrounded by carefully manicured grass. 
+
+You can see a pedestal (on which is a cloisonne pot (empty)) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1277"></child>
+        </children>
+    </item>
+    <item nodeId="node-1277">
+        <command xml:space="preserve">take pot</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1278"></child>
+        </children>
+    </item>
+    <item nodeId="node-1278">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+On the trees is a nest (empty).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1279"></child>
+        </children>
+    </item>
+    <item nodeId="node-1279">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1280"></child>
+        </children>
+    </item>
+    <item nodeId="node-1280">
+        <command xml:space="preserve">put pot in vessel</command>
+        <result xml:space="preserve">You reach toward the shadowy vessel, and the world moves.
+
+The darkness darkens, and when it brightens again, you are somewhere else.
+
+Emptiness
+A vast darkness extends in all directions. Distantly, blurry motes of light seem to float on the horizon -- or it might be a trick of your eyes.
+
+You can see a vessel (in which are faith in humanity, unconditional love, an a piece of the infinite and hope for the future) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1281"></child>
+        </children>
+    </item>
+    <item nodeId="node-1281">
+        <command xml:space="preserve">put pot in vessel</command>
+        <result xml:space="preserve">The pot won't fit into the vessel. You'd have to drop and break it to make any of it fit.
+
+(You might get a hint here.).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1282"></child>
+        </children>
+    </item>
+    <item nodeId="node-1282">
+        <command xml:space="preserve">drop pot</command>
+        <result xml:space="preserve">You tip your hand over and drop the cloisonne pot from a respectable height. It smashes into the ground quite satisfactorily, leaving only a handful of shards.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1283"></child>
+        </children>
+    </item>
+    <item nodeId="node-1283">
+        <command xml:space="preserve">get shard</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1284"></child>
+        </children>
+    </item>
+    <item nodeId="node-1284">
+        <command xml:space="preserve">get shards</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1285"></child>
+        </children>
+    </item>
+    <item nodeId="node-1285">
+        <command xml:space="preserve">put shards in vessel</command>
+        <result xml:space="preserve">You drop the cloisonne shards into the vessel.
+
+As the shards fall into the vessel, they whirl apart from each other in a wild release, then flash into pure light.
+
+Control has been relinquished into the vessel now.
+
+
+* * *
+
+The colors inside the vessel begin to swirl around each other. They move faster and faster until they begin to blur together. When finally they merge, there is a great flash.
+(There would be a picture of the sonogram here.)
+
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1286"></child>
+        </children>
+    </item>
+    <item nodeId="node-1286">
+        <command xml:space="preserve">restart</command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1064">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+glowing portal
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1065"></child>
+        </children>
+    </item>
+    <item nodeId="node-1065">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars.
+
+A path south leads to the center of the island.
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1101">
+        <command xml:space="preserve">command</command>
+        <result xml:space="preserve">There are lots of commands. Some of the important ones for this game are:
+inventory - check what you're carrying;
+take (thing) - try to pick something up (also "get" or "pick up");
+look at (thing) - inspect something - sometimes things are hidden!;
+go (place) - move in a direction (north, south, east west), or into something (such as a cave);
+hint - get a hint about how to solve one of the puzzles;
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1102"></child>
+        </children>
+    </item>
+    <item nodeId="node-1102">
+        <command xml:space="preserve">hint</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1103"></child>
+        </children>
+    </item>
+    <item nodeId="node-1103">
+        <command xml:space="preserve">look at lights</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1104"></child>
+        </children>
+    </item>
+    <item nodeId="node-1104">
+        <command xml:space="preserve">look at light</command>
+        <result xml:space="preserve">Tiny motes of light float just at the edges of your vision. It's hard to tell if they're there at all.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1287">
+        <command xml:space="preserve">beckon motes</command>
+        <result xml:space="preserve">You gesture invitingly toward the light. It pauses in midair, then, very distinctly, it draws closer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1015">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">You gesture invitingly toward the light. It pauses in midair, then, very distinctly, it draws closer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1016"></child>
+        </children>
+    </item>
+    <item nodeId="node-1016">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">You beckon the light closer again. Again it grows still, seeming to watch you. In its stillness it seems suddenly alive.
+
+After a long moment, the light again swings closer to you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1036"></child>
+            <child nodeId="node-1017"></child>
+            <child nodeId="node-1045"></child>
+        </children>
+    </item>
+    <item nodeId="node-1045">
+        <command xml:space="preserve">touch light</command>
+        <result xml:space="preserve">The light is almost close enough to touch, but when you stretch out your arm, it dances away from your fingertips.
+
+The gentle light is quite close. You could almost reach out and touch it, but not quite.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1046"></child>
+        </children>
+    </item>
+    <item nodeId="node-1046">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">The light seems less hesitant now, and it's grown larger. Now when you beckon it seems to have been waiting for your gesture, and it immediately floats closer to your hand, near enough to touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1047"></child>
+        </children>
+    </item>
+    <item nodeId="node-1047">
+        <command xml:space="preserve">touch light</command>
+        <result xml:space="preserve">You stretch out your hand and brush the light with your fingertips.
+
+The light shimmers close, weaves one little loop around you, then gathers at your feet. It pools upward, forming a cup, and finally a vessel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1048"></child>
+        </children>
+    </item>
+    <item nodeId="node-1048">
+        <command xml:space="preserve">touch vessel</command>
+        <result xml:space="preserve">The darkness darkens, and when it brightens again, you are somewhere else.
+
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars. 
+
+The only obvious exit is south.
+
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1049"></child>
+        </children>
+    </item>
+    <item nodeId="node-1049">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+The obvious exits are north (to a grassy island, north end), south, east and west.
+
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1050"></child>
+        </children>
+    </item>
+    <item nodeId="node-1050">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+A Grassy Island, East End
+Sheltered from the star winds, this end of the island has a twilight tranquility. A gazebo looks out into the stars, surrounded by carefully manicured grass. 
+
+The only obvious exit is west (to a grassy island, center).
+
+
+You can see a pedestal (on which is a cloisonne pot (in which is a bonsai plant)) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1051"></child>
+        </children>
+    </item>
+    <item nodeId="node-1051">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+The obvious exits are north (to a grassy island, north end), south, east (to a grassy island, east end) and west.
+
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1052"></child>
+        </children>
+    </item>
+    <item nodeId="node-1052">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. 
+
+The obvious exits are north (to a grassy island, center) and down.
+
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1053"></child>
+        </children>
+    </item>
+    <item nodeId="node-1053">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1054"></child>
+        </children>
+    </item>
+    <item nodeId="node-1054">
+        <command xml:space="preserve">look hummock</command>
+        <result xml:space="preserve">As you part the fragrant grasses of one of the hummocks, you discover a tunnel leading down into a cave.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1055"></child>
+        </children>
+    </item>
+    <item nodeId="node-1055">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. A tunnel leads downward into a subterranean cave.
+
+You can see a cave here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1056"></child>
+        </children>
+    </item>
+    <item nodeId="node-1056">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. A tunnel leads downward into a subterranean cave.
+
+You can see a cave here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1057"></child>
+        </children>
+    </item>
+    <item nodeId="node-1057">
+        <command xml:space="preserve">look at cae</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1058"></child>
+        </children>
+    </item>
+    <item nodeId="node-1058">
+        <command xml:space="preserve">look at cave</command>
+        <result xml:space="preserve">A gap between the grass hummocks reveals a tunnel that leads down into the underground.
+
+(You might get a hint here.).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1059"></child>
+        </children>
+    </item>
+    <item nodeId="node-1059">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">A Grassy Island, Subterranean Cave
+Light filters down from the grass-fringed opening of the tunnel. Soil and packed dirt give way to rock as the cave winds to the north. 
+
+The obvious exits are north and up (to a grassy island, south end).
+
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1060"></child>
+        </children>
+    </item>
+    <item nodeId="node-1060">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+A Grassy Island, Subterranean Cave
+The cave ends here in a rounded wall. A fox has made its nest here. 
+
+The only obvious exit is south (to a grassy island, subterranean cave).
+
+
+You can see a growling fox here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1017">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">The light seems less hesitant now, and it's grown larger. Now when you beckon it seems to have been waiting for your gesture, and it immediately floats closer to your hand, near enough to touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1018"></child>
+        </children>
+    </item>
+    <item nodeId="node-1018">
+        <command xml:space="preserve">touch light</command>
+        <result xml:space="preserve">You stretch out your hand and brush the light with your fingertips.
+
+The light shimmers close, weaves one little loop around you, then gathers at your feet. It pools upward, forming a cup, and finally a vessel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1019"></child>
+            <child nodeId="node-1026"></child>
+        </children>
+    </item>
+    <item nodeId="node-1026">
+        <command xml:space="preserve">touch vessel</command>
+        <result xml:space="preserve">The darkness darkens, and when it brightens again, you are somewhere else.
+
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars.
+
+A path south leads to the center of the island.
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1027"></child>
+            <child nodeId="node-1031"></child>
+        </children>
+    </item>
+    <item nodeId="node-1031">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+Worn paths lead north (back to the portal), south, east, and west from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1033"></child>
+            <child nodeId="node-1032"></child>
+        </children>
+    </item>
+    <item nodeId="node-1032">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">
+A Grassy Island, West End
+The ground rises here into an angled precipice of stacked stone that looks out into the sky. Perched on the edge of the precipice is a brass telescope, trained on a distant blue planet.
+
+You can see a brass telescope (in which is a glass lens) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1033">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. 
+
+A path leads north back to the center of the island from here. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1034"></child>
+        </children>
+    </item>
+    <item nodeId="node-1034">
+        <command xml:space="preserve">look hummock</command>
+        <result xml:space="preserve">As you part the fragrant grasses of one of the hummocks, you discover a tunnel leading down into a cave.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1035"></child>
+        </children>
+    </item>
+    <item nodeId="node-1035">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. A tunnel leads downward into a subterranean cave.
+
+You can see a cave here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1027">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1028"></child>
+        </children>
+    </item>
+    <item nodeId="node-1028">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1029"></child>
+        </children>
+    </item>
+    <item nodeId="node-1029">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">
+A Grassy Island, West End
+The ground rises here into an angled precipice of stacked stone that looks out into the sky. Perched on the edge of the precipice is a brass telescope, trained on a distant blue planet.
+
+You can see a brass telescope (closed) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1030"></child>
+        </children>
+    </item>
+    <item nodeId="node-1030">
+        <command xml:space="preserve">use telescope</command>
+        <result xml:space="preserve">You train the telescope on the blue planet. Far, far below, you see a family eating dinner.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1019">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Emptiness
+A vast darkness extends in all directions. Distantly, blurry motes of light seem to float on the horizon -- or it might be a trick of your eyes. 
+
+A glowing portal leads to another world.
+
+You can see a vessel (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1020"></child>
+        </children>
+    </item>
+    <item nodeId="node-1020">
+        <command xml:space="preserve">touch vessel</command>
+        <result xml:space="preserve">The darkness darkens, and when it brightens again, you are somewhere else.
+
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars.
+
+A path south leads to the center of the island.
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1021"></child>
+        </children>
+    </item>
+    <item nodeId="node-1021">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+Worn paths lead north (back to the portal), south, east, and west from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1022"></child>
+        </children>
+    </item>
+    <item nodeId="node-1022">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. 
+
+A path leads north back to the center of the island from here. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1023"></child>
+        </children>
+    </item>
+    <item nodeId="node-1023">
+        <command xml:space="preserve">look hummock</command>
+        <result xml:space="preserve">As you part the fragrant grasses of one of the hummocks, you discover a tunnel leading down into a cave.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1024"></child>
+        </children>
+    </item>
+    <item nodeId="node-1024">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. 
+
+A narrow trace leads down into a subterranean cave, while another path leads north, back to the center of the island.
+
+You can see a cave here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1025"></child>
+        </children>
+    </item>
+    <item nodeId="node-1025">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">A Grassy Island, Subterranean Cave
+Light filters down from the grass-fringed opening of the tunnel. Soil and packed dirt give way to rock as the cave winds to the north. 
+
+A path leads north, deeper into the cave, from here, or you can go up exit the cave.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1036">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1037"></child>
+        </children>
+    </item>
+    <item nodeId="node-1037">
+        <command xml:space="preserve">touch light</command>
+        <result xml:space="preserve">The light is almost close enough to touch, but when you stretch out your arm, it dances away from your fingertips.
+
+The gentle light is quite close. You could almost reach out and touch it, but not quite.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1038"></child>
+        </children>
+    </item>
+    <item nodeId="node-1038">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">The light seems less hesitant now, and it's grown larger. Now when you beckon it seems to have been waiting for your gesture, and it immediately floats closer to your hand, near enough to touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1039"></child>
+        </children>
+    </item>
+    <item nodeId="node-1039">
+        <command xml:space="preserve">touch light</command>
+        <result xml:space="preserve">You stretch out your hand and brush the light with your fingertips.
+
+The light shimmers close, weaves one little loop around you, then gathers at your feet. It pools upward, forming a cup, and finally a vessel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1040"></child>
+        </children>
+    </item>
+    <item nodeId="node-1040">
+        <command xml:space="preserve">touch vessel</command>
+        <result xml:space="preserve">The darkness darkens, and when it brightens again, you are somewhere else.
+
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars.
+
+A path south leads to the center of the island.
+
+You can see a shadowy vessel and an alabaster monument here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1041"></child>
+        </children>
+    </item>
+    <item nodeId="node-1041">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees. 
+
+Worn paths lead north (back to the portal), south, east, and west from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1042"></child>
+        </children>
+    </item>
+    <item nodeId="node-1042">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. 
+
+A path leads north back to the center of the island from here. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1043"></child>
+        </children>
+    </item>
+    <item nodeId="node-1043">
+        <command xml:space="preserve">look hummock</command>
+        <result xml:space="preserve">As you part the fragrant grasses of one of the hummocks, you discover a tunnel leading down into a cave.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1044"></child>
+        </children>
+    </item>
+    <item nodeId="node-1044">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">A Grassy Island, South End
+A mirror for the north end of the island, the south end too rolls downward and gradually vanishes into darkness. The grasses here rise and fall in gentle hummocks. 
+
+A path leads north back to the center of the island from here. 
+
+A narrow trace leads down into a subterranean cave, while another path leads north, back to the center of the island.
+
+You can see a cave here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1089">
+        <command xml:space="preserve">beckon</command>
+        <result xml:space="preserve">What do you want to beckon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1090"></child>
+        </children>
+    </item>
+    <item nodeId="node-1090">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">You gesture invitingly toward the light. It pauses in midair, then, very distinctly, it draws closer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1091"></child>
+        </children>
+    </item>
+    <item nodeId="node-1091">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">You beckon the light closer again. Again it grows still, seeming to watch you. In its stillness it seems suddenly alive.
+
+After a long moment, the light again swings closer to you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1092"></child>
+        </children>
+    </item>
+    <item nodeId="node-1092">
+        <command xml:space="preserve">beckon light</command>
+        <result xml:space="preserve">The light seems less hesitant now, and it's grown larger. Now when you beckon it seems to have been waiting for your gesture, and it immediately floats closer to your hand, near enough to touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1093"></child>
+        </children>
+    </item>
+    <item nodeId="node-1093">
+        <command xml:space="preserve">take light</command>
+        <result xml:space="preserve">The lights are small and elusive.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1094"></child>
+        </children>
+    </item>
+    <item nodeId="node-1094">
+        <command xml:space="preserve">touch light</command>
+        <result xml:space="preserve">You stretch out your hand and brush the light with your fingertips.
+
+The light shimmers close, weaves one little loop around you, then gathers at your feet. It pools upward, forming a cup, and finally a vessel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1095"></child>
+        </children>
+    </item>
+    <item nodeId="node-1095">
+        <command xml:space="preserve">take vessel</command>
+        <result xml:space="preserve">The darkness darkens, and when it brightens again, you are somewhere else.
+
+A Grassy Island, North End
+The north end of the island descends into starlight. From the knee-high grasses here one can look out at the infinite stars.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1096"></child>
+        </children>
+    </item>
+    <item nodeId="node-1096">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+A Grassy Island, Center
+The island rises to its zenith here in the center, marked by a tiny stand of redwood trees.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1097"></child>
+        </children>
+    </item>
+    <item nodeId="node-1097">
+        <command xml:space="preserve">look at nest</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1098"></child>
+        </children>
+    </item>
+    <item nodeId="node-1098">
+        <command xml:space="preserve">look at trees</command>
+        <result xml:space="preserve">A sudden narrow stand of redwoods erupts out of the ground at the center of the island. On one low slung branch of the nearest tree, you can see a nest made of twigs.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1099"></child>
+        </children>
+    </item>
+    <item nodeId="node-1099">
+        <command xml:space="preserve">look at nest</command>
+        <result xml:space="preserve">This nest was well maintained at one time, but its occupants have migrated elsewhere.
+
+In the nest is a feather.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1100"></child>
+        </children>
+    </item>
+    <item nodeId="node-1100">
+        <command xml:space="preserve">take feather</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
