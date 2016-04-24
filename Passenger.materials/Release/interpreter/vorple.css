@@ -105,6 +105,7 @@ body.play .noty_text {
 	background-repeat: no-repeat;
 	background-position: right;
 	background-size: 431px 100px;
+	z-index: 5;
 }
 
 #vorple {
@@ -419,30 +420,30 @@ input {
 .ball:nth-child(1) {
   -webkit-transform: translate(-66px);
           transform: translate(-66px);
-  -webkit-animation: x-axis-lateral 15s infinite alternate ease-in-out;
-          animation: x-axis-lateral 15s infinite alternate ease-in-out;
+  -webkit-animation: x-axis-lateral 6s infinite alternate ease-in-out;
+          animation: x-axis-lateral 6s infinite alternate ease-in-out;
 }
 .ball:nth-child(1):before {
-  -webkit-animation: y-axis-lateral 15s infinite 1.1s alternate ease-in-out;
-          animation: y-axis-lateral 15s infinite 1.1s alternate ease-in-out;
+  -webkit-animation: y-axis-lateral 6s infinite 1.1s alternate ease-in-out;
+          animation: y-axis-lateral 6s infinite 1.1s alternate ease-in-out;
 }
 .ball:nth-child(2) {
-  -webkit-animation: x-axis 15s infinite alternate ease-in-out;
-          animation: x-axis 15s infinite alternate ease-in-out;
+  -webkit-animation: x-axis 6s infinite alternate ease-in-out;
+          animation: x-axis 6s infinite alternate ease-in-out;
 }
 .ball:nth-child(2):before {
-  -webkit-animation: y-axis 15s infinite 1.5s alternate ease-in-out;
-          animation: y-axis 15s infinite 1.5s alternate ease-in-out;
+  -webkit-animation: y-axis 6s infinite 1.6s alternate ease-in-out;
+          animation: y-axis 6s infinite 1.6s alternate ease-in-out;
 }
 .ball:nth-child(3) {
   -webkit-transform: translate(66px, 78px);
           transform: translate(66px, 78px);
-  -webkit-animation: x-axis-lateral 15s infinite alternate ease;
-          animation: x-axis-lateral 15s infinite alternate ease;
+  -webkit-animation: x-axis-lateral 6s infinite alternate ease;
+          animation: x-axis-lateral 6s infinite alternate ease;
 }
 .ball:nth-child(3):before {
-  -webkit-animation: y-axis-lateral 15s infinite 1.4s alternate ease-in-out;
-          animation: y-axis-lateral 15s infinite 1.4s alternate ease-in-out;
+  -webkit-animation: y-axis-lateral 6s infinite 1.4s alternate ease-in-out;
+          animation: y-axis-lateral 6s infinite 1.4s alternate ease-in-out;
 }
 
 @-webkit-keyframes x-axis {
