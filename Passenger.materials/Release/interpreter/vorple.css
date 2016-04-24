@@ -82,7 +82,7 @@ body.play .noty_text {
 	width: 250px;
 	height: 100%;
 	border: 3px;
-	background-color: #DDD;
+	background-color: #333;
 }
 #leftcolumn2{
 	position: fixed;
@@ -91,7 +91,7 @@ body.play .noty_text {
 	width: 250px;
 	height: 120px;
 	border: 3px;
-	background-color: #DDD;
+	background-color: #333;
 }
 
 #topbar{
