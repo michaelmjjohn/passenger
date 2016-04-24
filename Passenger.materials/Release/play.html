@@ -13,7 +13,7 @@
 // vorpleLoaderMessage in a custom JavaScript file
 $( function() {
 $( '#vorpleLoader' ).html(
-typeof vorpleLoaderMessage === 'string' ? vorpleLoaderMessage : 'Loading...'
+typeof vorpleLoaderMessage === 'string' ? vorpleLoaderMessage : 'Waiting...'
 );
 });
 </script>
@@ -43,6 +43,7 @@ parchment.init();
   
  <link rel='stylesheet' href='passenger.css' type='text/css' media='all'></link></head>
 <body class="play">
+
 <div class="container">
 <div class="coverimage"><span><a href="Cover.jpg"><img src="Small Cover.jpg" border="1"></a></span></div>
 <div class="links">
@@ -52,16 +53,45 @@ parchment.init();
 </ul>
 </div>
 
+
+<!--
+// MJ modifications
+-->
+
+<div id="topbar">
+</div>
+
+<!-- begin left column animation -->
+<div id="leftcolumn">
+<div class="wrapper">
+  <div class="ball"></div>
+  <div class="ball"></div>
+  <div class="ball"></div>
+</div>
+
+<svg>
+  <defs>
+    <filter id="filter">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="18" result="blur" />
+      <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 28 -10" result="filter" />
+      <feComposite in="SourceGraphic" in2="filter" operator="atop" />
+    </filter>
+  </defs>
+</svg>
+</div>
+<!-- end left column animation -->
+
+
 <div id="gameport">
 <div id="vorpleContainer">
 <div id="vorple"><div id="vorpleLoader"></div></div>
 <div id="vorpleInput"></div>
-<div id="parchment"></div>
+<!-- <div id="parchment"></div> -->
 <div class="clearAll"></div>
 </div>
 </div>
-
 </div>
+
 <div class="interpretercredit"><a href="http://vorple-if.com">Vorple</a></div>
 </body>
 </html>
