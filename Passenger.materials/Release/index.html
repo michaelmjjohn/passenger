@@ -57,15 +57,19 @@ parchment.init();
 // MJ modifications
 -->
 <div id="topbar">
-  <object data="bird.swf" width="1000" height="300" align="right">
-    <param name="movie" value="bird.swf" />
-    <param name="quality" value="high"/>
-    <param name="loop" value="false"/>
-    <param name="align" value="right"/>
-    <param name="salign" value="tr"/>
-  </object>
+	<div id="birdanim">
+	  <object data="bird.swf" width="1000" height="300" align="right">
+		<param name="movie" value="bird.swf" />
+		<param name="quality" value="high"/>
+		<param name="loop" value="false"/>
+		<param name="align" value="right"/>
+		<param name="salign" value="tr"/>
+	  </object>
+	</div>
+<!--
 	<div id="leftcolumnupper"><br>
 	</div>
+	-->
 </div>
 
 
@@ -82,7 +86,7 @@ parchment.init();
     <filter id="filter">
       <feGaussianBlur in="SourceGraphic" stdDeviation="18" result="blur" />
       <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 28 -10" result="filter" />
-      <feComposite in="SourceGraphic" in2="filter" operator="atop" />
+      <feComposite in="SourceGraphic" in2="filter" operator="a" />
     </filter>
   </defs>
 </svg>
